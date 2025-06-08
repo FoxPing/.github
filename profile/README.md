@@ -23,7 +23,7 @@ Nos services incluent :
 
 Même si nous ne fonctionnons pas comme une organisation open source, **la communauté est au cœur d’Echo-Host**.  
 Voici quelques façons de nous soutenir ou de participer :
-- Rejoindre notre communauté (Discord en préparation)
+- Rejoindre notre communauté
 - Nous faire des retours sur nos services
 - Parler d’Echo-Host autour de toi
 - Participer à des événements ou initiatives communautaires à venir
@@ -32,10 +32,10 @@ Voici quelques façons de nous soutenir ou de participer :
 
 ## 👩‍💻 Ressources utiles
 
-- 🌍 Site web : [https://echo-host.ch](https://echo-host.ch)
-- 🧾 Espace client : [https://panel.echo-host.ch](https://panel.echo-host.ch)
-- 🖥 Console de gestion des serveurs : [https://console.echo-host.ch](https://console.echo-host.ch)
-- 💬 Discord : bientôt disponible !
+- 🌍 Site web : [https://echo-host.net](https://echo-host.net)
+- 🧾 Espace client : [https://client.echo-host.net](https://client.echo-host.net)
+- 🖥 Console de gestion des serveurs : [https://client.echo-host.net](https://client.echo-host.net)
+- 💬 Discord : [https://discord.gg/JS9sThMv34](https://discord.gg/JS9sThMv34)
 
 ---
 
@@ -56,4 +56,4 @@ Merci de faire partie de l’écho. 💜
 
 ---
 
-> _“Nos serveurs ne ronflent pas, ils chantent doucement la liberté numérique.”_ – L’équipe Echo-Host
+> _“L'echo d'un hébérgement fiable à portée de main.”_ – L’équipe Echo-Host
